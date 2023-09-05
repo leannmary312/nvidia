@@ -6,4 +6,4 @@ The NVIDIA Stock Analysis project is a data analysis and visualization project t
 
 ![Capture](https://github.com/leannmary312/nvidia/assets/143683658/b8f7ada4-365b-45ee-91ba-0b3bcdb9be44)
 
-(https://public.tableau.com/app/profile/leann.kurias/viz/TopSemiconductorCompaniesStockDashboard/Dashboard2)
+https://public.tableau.com/app/profile/leann.kurias/viz/TopSemiconductorCompaniesStockDashboard/Dashboard2
